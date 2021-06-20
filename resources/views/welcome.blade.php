@@ -219,35 +219,35 @@
 												<td>name</td>
 												<td><code>string</code></td>
 												<td><code>Body</code></td>
-												<td><code>Nullable</code></td>
+												<td><code>Optional</code></td>
 												<td>Nombre del cliente</td>
 											</tr>
 											<tr>
 												<td>email</td>
 												<td><code>string</code></td>
 												<td><code>Body</code></td>
-												<td><code>Nullable</code></td>
+												<td><code>Optional</code></td>
 												<td>Email del cliente</td>
 											</tr>
 											<tr>
 												<td>address</td>
 												<td><code>string</code></td>
 												<td><code>Body</code></td>
-												<td><code>Nullable</code></td>
+												<td><code>Optional</code></td>
 												<td>Dirección del cliente</td>
 											</tr>
 											<tr>
 												<td>phone</td>
 												<td><code>string</code></td>
 												<td><code>Body</code></td>
-												<td><code>Nullable</code></td>
+												<td><code>Optional</code></td>
 												<td>Teléfono del cliente</td>
 											</tr>
 											<tr>
 												<td>nationality</td>
 												<td><code>string</code></td>
 												<td><code>Body</code></td>
-												<td><code>Nullable</code></td>
+												<td><code>Optional</code></td>
 												<td>Nacionalidad del cliente</td>
 											</tr>
 										</tbody>
